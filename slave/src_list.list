@@ -1,0 +1,15 @@
+SPI_slave.v
+slave_golden.v
+slave_if.sv
+slave_seq_item.sv
+slave_seq.sv
+slave_sequencer.sv
+slave_config_obj.sv
+slave_driver.sv
+slave_monitor.sv
+slave_scoreboard.sv
+slave_cov.sv
+slave_agent.sv
+slave_env.sv
+slave_test.sv
+slave_top.sv
